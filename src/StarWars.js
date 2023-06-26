@@ -26,7 +26,7 @@ const StarWarsComponent = () => {
     <div>
       {loading ? 
       (<div>
-        Carregando
+        Loading...
       </div>) :
       (<div>
           <h1>Tabela - Star Wars</h1>
